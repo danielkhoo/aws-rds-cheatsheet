@@ -1,4 +1,4 @@
-# aws-rds-cheatsheet
+# RDS cheatsheet
 
 ## Maximum Concurrent Connections
 
